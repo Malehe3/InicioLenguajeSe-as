@@ -23,7 +23,7 @@ El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas 
 
 # Propósito y Recorrido del Aprendizaje
 st.write("""
-# "¿Qué podrás aprender y encontrar en esta plataforma?"? 
+# ¿Qué podrás aprender y encontrar en esta plataforma?? 
 
 El propósito  es proporcionar una plataforma accesible y amigable para aprender LSC de manera facil. A través de nuestros módulos, aprenderás:
 

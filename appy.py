@@ -36,7 +36,7 @@ El propósito  es proporcionar una plataforma accesible y amigable para aprender
 Comenzarás con lo más esencial, el abecedario.
 
 ### 2. **Básico: Tu nombre**:
-Aprenderás a deletrear tu nombre y a presentarte.
+Aprenderás a deletrear tu nombre y presentarte.
 
 ### 3. **Básico: Tu Señal de Identificación**:
 Crearás tu propia seña, será una forma única de ser reconocida y comunicarte en la comunidad sorda.

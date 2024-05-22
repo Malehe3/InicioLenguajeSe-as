@@ -32,10 +32,10 @@ st.write("""
 
 El propósito  es proporcionar una plataforma accesible y amigable para aprender LSC de manera facil. A través de nuestros módulos, aprenderás:
 
-1. **Básico: El Abecedario**:
+1. ## **Básico: El Abecedario**:
 Comenzarás con lo más esencial, el abecedario. Aprenderás a deletrear tu nombre.
 
-2. **Básico: Tu Señal de Identificación**:
+2. ## **Básico: Tu Señal de Identificación**:
 Crearás tu propia seña, será una forma única de ser reconocida y comunicarte en la comunidad sorda.
 """)
 

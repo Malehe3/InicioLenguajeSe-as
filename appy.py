@@ -1,4 +1,5 @@
 import streamlit as st
+from PIL import Image 
 
 st.title(" Aprende Lenguaje de Señas Colombiano")
 
@@ -10,7 +11,11 @@ En Colombia y el mundo, el lenguaje de señas es una herramienta vital para la c
 Esta aplicación tiene como objetivo facilitar el aprendizaje de LSC, permitiendo a más personas comunicarse efectivamente con la comunidad sorda.
 """)
 
-# Importancia
+image = Image.open('Gatochef1.jpeg')
+new_width = 200
+new_height = 200
+image_resized = image.resize((new_width, new_height))
+
 st.write("""
 # ¿Por qué es importante aprender LSC?
 
@@ -21,7 +26,7 @@ El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas 
 - Ayuda a derribar barreras de comunicación y a crear una sociedad más justa.
 """)
 
-# Propósito y Recorrido del Aprendizaje
+}
 st.write("""
 # ¿Qué podrás aprender y encontrar en esta plataforma?? 
 
@@ -34,7 +39,7 @@ Comenzarás con lo más esencial, el abecedario. Aprenderás a deletrear tu nomb
 Crearás tu propia seña, será una forma única de ser reconocida y comunicarte en la comunidad sorda.
 """)
 
-# Video
+
 st.write("""
 Para comenzar, mira este video que te dará una visión general del Lenguaje de Señas Colombiano y te motivará en tu proceso de aprendizaje.
 """)

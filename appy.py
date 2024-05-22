@@ -53,7 +53,6 @@ Crearás tu propia seña, será una forma única de ser reconocida y comunicarte
 st.write("""
 ## ¡Comencemos!""")
 
-
 st.write("""
 Ya puedes dirigirte al siguiente modulo "**Básico: El Abecedario**"
 """)

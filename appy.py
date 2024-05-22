@@ -28,7 +28,7 @@ El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas 
 """)
 
 st.write("""
-## ¿Qué podrás aprender y encontrar en esta plataforma?? 
+## ¿Qué podrás aprender y encontrar en esta plataforma? 
 
 El propósito  es proporcionar una plataforma accesible y amigable para aprender LSC de manera facil. A través de nuestros módulos, aprenderás:
 
@@ -38,7 +38,7 @@ Comenzarás con lo más esencial, el abecedario.
 ### 2. **Básico: Tu nombre**:
 Aprenderás a deletrear tu nombre y presentarte.
 
-### 3. **Básico: Tu Señal de Identificación**:
+### 3. **Básico: Tu propia seña**:
 Crearás tu propia seña, será una forma única de ser reconocida y comunicarte en la comunidad sorda.
 """)
 

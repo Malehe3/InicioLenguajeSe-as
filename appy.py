@@ -49,3 +49,7 @@ Para empezar, mira este video que te dará una visión general del Lenguaje de S
 # Incrustar un video (por ejemplo, un video de YouTube)
 video_url = "https://www.youtube.com/watch?v=tJz9iwuU6aY"  # Reemplaza con la URL de tu video
 st.video(video_url)
+
+st.write("""
+Ya puedes dirigirte al siguiente modulo "**Básico: El Abecedario**"
+""")

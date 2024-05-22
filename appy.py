@@ -1,27 +1,23 @@
 import streamlit as st
 
 # Título
-st.title("Lenguaje de Señas Colombiano")
+st.title(" Aprende Lenguaje de Señas Colombiano")
 
 # Eslogan
-st.header("Aprende Lenguaje de Señas Colombiano: Rompiendo Barreras, Construyendo Puentes")
+st.header("Más Allá de las Palabras: Transformando Vidas con Lenguaje de Señas")
 
 # Introducción y Reflexión
 st.write("""
-## Introducción
-
 Bienvenido a nuestra aplicación de aprendizaje del Lenguaje de Señas Colombiano (LSC). En Colombia, el lenguaje de señas es una herramienta vital para la comunicación inclusiva. Esta aplicación tiene como objetivo facilitar el aprendizaje de LSC, permitiendo a más personas comunicarse efectivamente con la comunidad sorda.
 
-## Reflexión
-
-Aprender LSC no solo es adquirir una nueva habilidad, sino también es un acto de inclusión y respeto hacia las personas sordas. Es una manera de construir una sociedad más equitativa y comprensiva.
+Aprender LSC no solo es adquirir una nueva habilidad, sino también es un acto de inclusión y respeto hacia las personas sordas, tenemo la oportunidad de construir una sociedad más equitativa y comprensiva.
 """)
 
 # Importancia
 st.write("""
 ## ¿Por qué es importante aprender LSC?
 
-El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas en nuestro país. Aprender LSC es crucial porque:
+El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas en nuestro país, Colombia cuenta con 439.772 ciudadanos sordos, según la Encuesta Nacional de Calidad de Vida 2022 El Instituto Nacional para Sordos. Aprender LSC es crucial porque:
 
 - Promueve la inclusión y la comunicación efectiva.
 - Fortalece las relaciones personales y profesionales.

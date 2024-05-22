@@ -18,7 +18,7 @@ image_resized = image.resize((new_width, new_height))
 st.image(image_resized)
 
 st.write("""
-### ¿Por qué es importante aprender LSC?
+##¿Por qué es importante aprender LSC?
 
 El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas en nuestro país, Colombia cuenta con 439.772 ciudadanos sordos, según la Encuesta Nacional de Calidad de Vida 2022 El Instituto Nacional para Sordos. Aprender LSC se vuelve vital porque:
 
@@ -28,7 +28,7 @@ El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas 
 """)
 
 st.write("""
-# ¿Qué podrás aprender y encontrar en esta plataforma?? 
+## ¿Qué podrás aprender y encontrar en esta plataforma?? 
 
 El propósito  es proporcionar una plataforma accesible y amigable para aprender LSC de manera facil. A través de nuestros módulos, aprenderás:
 

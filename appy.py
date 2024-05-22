@@ -12,7 +12,7 @@ Esta aplicación tiene como objetivo facilitar el aprendizaje de LSC, permitiend
 """)
 
 image = Image.open('LenguajeSeñas1.jpg')
-new_width = 400
+new_width = 500
 new_height = 300
 image_resized = image.resize((new_width, new_height))
 st.image(image_resized)

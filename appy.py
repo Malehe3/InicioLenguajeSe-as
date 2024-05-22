@@ -3,9 +3,9 @@ from PIL import Image
 
 st.title(" ¡Aprende Lenguaje de Señas Colombiano!" )
 
-st.header("Más allá de las palabras, descubre el poder del lenguaje de señas colombiano ")
-
 st.write("""
+### Más allá de las palabras, descubre el poder del lenguaje de señas colombiano 
+
 Bienvenido a nuestra plataforma de aprendizaje del Lenguaje de Señas Colombiano (LSC). 
 En Colombia y el mundo, el lenguaje de señas es una herramienta vital para la comunicación inclusiva. 
 Esta aplicación tiene como objetivo facilitar el aprendizaje de LSC, permitiendo a más personas comunicarse efectivamente con la comunidad sorda.

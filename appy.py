@@ -8,7 +8,7 @@ st.write("""
 
 Bienvenido a nuestra plataforma de aprendizaje del Lenguaje de Señas Colombiano (LSC). 
 En Colombia y el mundo, el lenguaje de señas es una herramienta vital para la comunicación inclusiva. 
-Esta aplicación tiene como objetivo facilitar el aprendizaje de LSC, permitiendo a más personas comunicarse efectivamente con la comunidad sorda.
+Esta plataforma tiene como objetivo facilitar el aprendizaje de LSC, permitiendo a más personas comunicarse efectivamente con la comunidad sorda.
 """)
 
 image = Image.open('LenguajeSeñas1.jpg')

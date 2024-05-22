@@ -20,12 +20,19 @@ st.image(image_resized)
 st.write("""
 ### ¿Por qué es importante aprender LSC?
 
-El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas en nuestro país, Colombia cuenta con 439.772 ciudadanos sordos, según la Encuesta Nacional de Calidad de Vida 2022 El Instituto Nacional para Sordos. Aprender LSC se vuelve vital porque:
+El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas en nuestro país, Colombia cuenta con 439.772 ciudadanos sordos, según la Encuesta Nacional de Calidad de Vida 2022. Aprender LSC se vuelve vital porque:
 
 - Promueve la inclusión y la comunicación efectiva.
 - Fortalece las relaciones personales y profesionales.
 - Ayuda a derribar barreras de comunicación y a crear una sociedad más justa.
 """)
+
+st.write("""
+
+Mira este video que te dará una visión general del Lenguaje de Señas Colombiano y te motivará en tu proceso de aprendizaje.
+""")
+video_url = "https://www.youtube.com/watch?v=tJz9iwuU6aY" 
+st.video(video_url)
 
 st.write("""
 ### ¿Qué podrás aprender y encontrar en esta plataforma? 
@@ -44,13 +51,8 @@ Crearás tu propia seña, será una forma única de ser reconocida y comunicarte
 
 
 st.write("""
+## ¡Comencemos!""")
 
-## ¡Comencemos!
-Para empezar, mira este video que te dará una visión general del Lenguaje de Señas Colombiano y te motivará en tu proceso de aprendizaje.
-""")
-
-video_url = "https://www.youtube.com/watch?v=tJz9iwuU6aY" 
-st.video(video_url)
 
 st.write("""
 Ya puedes dirigirte al siguiente modulo "**Básico: El Abecedario**"

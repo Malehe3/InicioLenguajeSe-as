@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image 
 
-st.title(" Aprende Lenguaje de Señas Colombiano")
+st.title(" ¡Aprende Lenguaje de Señas Colombiano"!)
 
 st.header("Más allá de las palabras, descubre el poder del lenguaje de señas colombiano ")
 
@@ -49,8 +49,7 @@ st.write("""
 Para empezar, mira este video que te dará una visión general del Lenguaje de Señas Colombiano y te motivará en tu proceso de aprendizaje.
 """)
 
-# Incrustar un video (por ejemplo, un video de YouTube)
-video_url = "https://www.youtube.com/watch?v=tJz9iwuU6aY"  # Reemplaza con la URL de tu video
+video_url = "https://www.youtube.com/watch?v=tJz9iwuU6aY" 
 st.video(video_url)
 
 st.write("""

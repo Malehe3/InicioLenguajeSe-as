@@ -1,23 +1,20 @@
 import streamlit as st
 
-# Título
 st.title(" Aprende Lenguaje de Señas Colombiano")
 
-# Eslogan
-st.header("Más Allá de las Palabras: Transformando Vidas con Lenguaje de Señas")
+st.header("Más allá de las palabras, descubre el poder del lenguaje de señas colombiano ")
 
-# Introducción y Reflexión
 st.write("""
-Bienvenido a nuestra aplicación de aprendizaje del Lenguaje de Señas Colombiano (LSC). En Colombia, el lenguaje de señas es una herramienta vital para la comunicación inclusiva. Esta aplicación tiene como objetivo facilitar el aprendizaje de LSC, permitiendo a más personas comunicarse efectivamente con la comunidad sorda.
-
-Aprender LSC no solo es adquirir una nueva habilidad, sino también es un acto de inclusión y respeto hacia las personas sordas, tenemo la oportunidad de construir una sociedad más equitativa y comprensiva.
+Bienvenido a nuestra plataforma de aprendizaje del Lenguaje de Señas Colombiano (LSC). 
+En Colombia y el mundo, el lenguaje de señas es una herramienta vital para la comunicación inclusiva. 
+Esta aplicación tiene como objetivo facilitar el aprendizaje de LSC, permitiendo a más personas comunicarse efectivamente con la comunidad sorda.
 """)
 
 # Importancia
 st.write("""
-## ¿Por qué es importante aprender LSC?
+# ¿Por qué es importante aprender LSC?
 
-El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas en nuestro país, Colombia cuenta con 439.772 ciudadanos sordos, según la Encuesta Nacional de Calidad de Vida 2022 El Instituto Nacional para Sordos. Aprender LSC es crucial porque:
+El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas en nuestro país, Colombia cuenta con 439.772 ciudadanos sordos, según la Encuesta Nacional de Calidad de Vida 2022 El Instituto Nacional para Sordos. Aprender LSC se vuelve vital porque:
 
 - Promueve la inclusión y la comunicación efectiva.
 - Fortalece las relaciones personales y profesionales.
@@ -26,27 +23,19 @@ El Lenguaje de Señas Colombiano es la lengua materna de muchas personas sordas 
 
 # Propósito y Recorrido del Aprendizaje
 st.write("""
-## Propósito de esta Aplicación y Recorrido de Aprendizaje
+# "¿Qué podrás aprender y encontrar en esta plataforma?"? 
 
-El propósito de esta aplicación es proporcionar una plataforma accesible y amigable para aprender LSC de manera estructurada y eficiente. A través de nuestros módulos, aprenderás:
+El propósito  es proporcionar una plataforma accesible y amigable para aprender LSC de manera facil. A través de nuestros módulos, aprenderás:
 
-1. **Lo Básico: El Abecedario y Tu Señal de Identificación**:
-   - Comenzarás con lo más esencial, el abecedario. Aprenderás a deletrear tu nombre y a crear tu propia seña de identificación.
+1. **Básico: El Abecedario**:
+Comenzarás con lo más esencial, el abecedario. Aprenderás a deletrear tu nombre.
 
-2. **Señas Comunes y Expresiones Cotidianas**:
-   - A continuación, te enseñaremos señas comunes utilizadas en el día a día, como saludos, despedidas y frases básicas.
-
-3. **Frases Complejas y Conversaciones**:
-   - Una vez que domines las señas básicas, avanzarás a construir frases más complejas y participar en conversaciones sencillas.
-
-4. **Temas Específicos y Vocabulario Avanzado**:
-   - Finalmente, te adentrarás en temas específicos como salud, educación, y trabajo, ampliando tu vocabulario y comprensión del LSC.
+2. **Básico: Tu Señal de Identificación**:
+Crearás tu propia seña, será una forma única de ser reconocida y comunicarte en la comunidad sorda.
 """)
 
 # Video
 st.write("""
-## Video de Introducción
-
 Para comenzar, mira este video que te dará una visión general del Lenguaje de Señas Colombiano y te motivará en tu proceso de aprendizaje.
 """)
 

@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image 
 
-st.title(" ¡Aprende Lenguaje de Señas Colombiano"!)
+st.title(" ¡Aprende Lenguaje de Señas Colombiano!" )
 
 st.header("Más allá de las palabras, descubre el poder del lenguaje de señas colombiano ")
 

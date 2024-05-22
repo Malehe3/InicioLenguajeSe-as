@@ -11,7 +11,7 @@ En Colombia y el mundo, el lenguaje de señas es una herramienta vital para la c
 Esta aplicación tiene como objetivo facilitar el aprendizaje de LSC, permitiendo a más personas comunicarse efectivamente con la comunidad sorda.
 """)
 
-image = Image.open('Gatochef1.jpeg')
+image = Image.open('LenguajeSeñas1.jpg')
 new_width = 200
 new_height = 200
 image_resized = image.resize((new_width, new_height))

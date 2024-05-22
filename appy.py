@@ -55,5 +55,5 @@ Para comenzar, mira este video que te dará una visión general del Lenguaje de 
 """)
 
 # Incrustar un video (por ejemplo, un video de YouTube)
-video_url = "https://www.youtube.com/watch?v=tu_video_id"  # Reemplaza con la URL de tu video
+video_url = "https://www.youtube.com/watch?v=tJz9iwuU6aY"  # Reemplaza con la URL de tu video
 st.video(video_url)

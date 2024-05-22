@@ -15,6 +15,7 @@ image = Image.open('LenguajeSeñas1.jpg')
 new_width = 200
 new_height = 200
 image_resized = image.resize((new_width, new_height))
+st.image(image_resized, caption='Tu')
 
 st.write("""
 # ¿Por qué es importante aprender LSC?

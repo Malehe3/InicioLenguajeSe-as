@@ -12,10 +12,10 @@ Esta aplicación tiene como objetivo facilitar el aprendizaje de LSC, permitiend
 """)
 
 image = Image.open('LenguajeSeñas1.jpg')
-new_width = 200
-new_height = 200
+new_width = 400
+new_height = 300
 image_resized = image.resize((new_width, new_height))
-st.image(image_resized, caption='Tu')
+st.image(image_resized)
 
 st.write("""
 # ¿Por qué es importante aprender LSC?
